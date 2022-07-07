@@ -56,7 +56,7 @@
     "inline-manifest-webpack-plugin": "^3.0.1",
     "jwt-decode": "^2.1.0",
     "lodash": "^4.17.4",
-    "moment": "^2.17.1",
+    "moment": "^2.29.4",
     "offline-plugin": "^4.8.1",
     "react": "^15.4.2",
     "react-apollo": "^1.2.0",
